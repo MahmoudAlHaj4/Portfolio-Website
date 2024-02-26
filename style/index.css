@@ -19,3 +19,17 @@ header h1 {
 p{
     margin-left: 3%;
 }
+
+a{
+    margin-left: 20%;
+    font-size: 20px;
+    
+}
+h3{
+    margin-top: 8%;
+    text-align: center;
+}
+h4{
+    margin-top: 3%;
+    text-align: center;
+}
